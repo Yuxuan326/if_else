@@ -1,0 +1,15 @@
+
+int e = 15 ;
+int f = 17 ;
+if ( e + f > 40 )
+{
+    Console.WriteLine("The answer is greater than 40");
+}
+else if ( e + f > 20 )
+{
+    Console.WriteLine("The answer is between 40 and 20");
+}
+else
+{
+    Console.WriteLine("The answer is not greater than 20");
+}
